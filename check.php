@@ -3,6 +3,12 @@
   <h1>CTF SCORING ENGINE v.0001</h1>
 
  <?php
+ //nuke0063
+ //This is the real meat of it all. my php mysql skills aren't that great. But, it works.
+ 
+ 
+ 
+ 
 //CREATE TABLE IF NOT EXISTS `flags` ( `ID` int(255) NOT NULL AUTO_INCREMENT, `flag` varchar(255) NOT NULL, `points` varchar(255) NOT NULL, PRIMARY KEY (ID) ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1;
 //CREATE TABLE IF NOT EXISTS `completed` ( `ID` int(255) NOT NULL AUTO_INCREMENT, `user` varchar(255) NOT NULL, `flag` varchar(255) NOT NULL, `points` varchar(255) NOT NULL, PRIMARY KEY (ID) ) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1;
 
